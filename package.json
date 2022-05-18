@@ -1,0 +1,16 @@
+{
+  "name": "cypress-intermediario-udemy",
+  "version": "1.0.0",
+  "description": "- Instalação do docker\r # Access token local\r - aDmzZbZmwsjMvriwc2JE\r - Gerar chave SSH e colocar na aplicação\r -",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^9.6.1",
+    "faker": "^5.5.3"
+  }
+}

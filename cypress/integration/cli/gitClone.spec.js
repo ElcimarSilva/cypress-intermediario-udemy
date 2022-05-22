@@ -17,6 +17,6 @@ describe('git clone', () => {
             .should('contain', `# ${project.name}`)
             .and('contain', project.description)
     })
-
+    //Para executar teste npx cypress run --spec cypress/integration/cli/gitClone.spec.js
     
 })

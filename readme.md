@@ -1,4 +1,6 @@
 - Instalação do docker
+- Configuração da aplicação
+
 # Access token local
 - aDmzZbZmwsjMvriwc2JE
 - Gerar chave SSH e colocar na aplicação

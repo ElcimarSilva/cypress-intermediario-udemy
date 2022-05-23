@@ -11,3 +11,6 @@
 
 # Iniciar o cypress
 - npx cypress open
+
+# Link referencia do curso
+https://gitlab.com/wlsf82/curso-cypress-intermediario/-/tree/passo-a-passo-e-solucao-final
